@@ -256,7 +256,7 @@ These recommendations are intended as areas for further investigation rather tha
 E-commerce Sales Performance Analysis & Dashboard/
 │
 ├── E-Commerce Sales Performance Dashboard.xlsx
-├── Project Case Study.pdf
+├── E-commerce Sales Performance Analysis & Dashboard.pdf
 ├── Dashboard Preview.png
 └── README.md
 ```
