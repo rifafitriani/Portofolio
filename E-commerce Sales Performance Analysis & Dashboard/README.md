@@ -136,10 +136,10 @@ The dashboard includes several key performance indicators designed to provide a 
 
 ### Sales KPIs
 
-* **Total Revenue:** $2,224,095.65
+* **Total Revenue:** €2,224,095.65
 * **Total Orders:** 2,192
 * **Total Quantity Sold:** 8,892
-* **Average Order Value:** $1,014.64
+* **Average Order Value:** €1,014.64
 * **Unique Customers:** 874
 
 These KPIs provide a concise summary of the overall scale and performance of the transactions included in the dataset.
@@ -185,19 +185,19 @@ Revenue declined gradually from 2020 to 2023 before recovering in 2024. Revenue 
 
 ### Product Category
 
-**Electronics** generated the highest revenue at approximately **$783.5K**, representing around **35.2% of total revenue**.
+**Electronics** generated the highest revenue at approximately **€783.5K**, representing around **35.2% of total revenue**.
 
 ### Regional Performance
 
-**West** recorded the highest regional revenue at approximately **$581.2K**, while **South** recorded the lowest at approximately **$506.2K**. Overall regional performance was relatively balanced.
+**West** recorded the highest regional revenue at approximately **€581.2K**, while **South** recorded the lowest at approximately **$506.2K**. Overall regional performance was relatively balanced.
 
 ### Quarterly Performance
 
-**Q3** generated the highest quarterly revenue at approximately **$589.7K**, but also recorded the longest average delivery time at 6.26 days.
+**Q3** generated the highest quarterly revenue at approximately **€589.7K**, but also recorded the longest average delivery time at 6.26 days.
 
 ### August Performance
 
-August generated the highest monthly revenue at **$217.7K**, while simultaneously recording the **lowest average customer rating (2.89)** and **longest average delivery time (6.76 days)**.
+August generated the highest monthly revenue at **€217.7K**, while simultaneously recording the **lowest average customer rating (2.89)** and **longest average delivery time (6.76 days)**.
 
 This pattern represents an area that may require further investigation, particularly around fulfillment capacity and customer experience during high-sales periods.
 
